@@ -8,10 +8,8 @@ namespace Supermarketsyst.Models
 {
     class Admin : User
     {
-        public Admin(int id, string name)
+        public Admin(string name) : base(name)
         {
-            Id = id;
-            Name = name;
             Role = "Admin";
         }
         public override void ShowDashboard()

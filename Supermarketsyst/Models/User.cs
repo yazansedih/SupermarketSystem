@@ -8,9 +8,17 @@ namespace Supermarketsyst.Models
 {
     public abstract class User
     {
-        public int Id { get; set; }
-        public string Name { get; set; }      
+        private static int _nextId = 1; 
+
+        public int Id { get; private set; }  
+        public string Name { get; set; }
         public string Role { get; set; }
+
+        public User(string name)
+        {
+            Id = _nextId++;  
+            Name = name;
+        }
 
         public abstract void ShowDashboard();
     }

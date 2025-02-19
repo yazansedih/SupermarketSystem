@@ -1,0 +1,15 @@
+C:\Users\yazan\source\repos\Supermarketsyst\Supermarketsyst\bin\Debug\net9.0\Supermarketsyst.exe
+C:\Users\yazan\source\repos\Supermarketsyst\Supermarketsyst\bin\Debug\net9.0\Supermarketsyst.deps.json
+C:\Users\yazan\source\repos\Supermarketsyst\Supermarketsyst\bin\Debug\net9.0\Supermarketsyst.runtimeconfig.json
+C:\Users\yazan\source\repos\Supermarketsyst\Supermarketsyst\bin\Debug\net9.0\Supermarketsyst.dll
+C:\Users\yazan\source\repos\Supermarketsyst\Supermarketsyst\bin\Debug\net9.0\Supermarketsyst.pdb
+C:\Users\yazan\source\repos\Supermarketsyst\Supermarketsyst\obj\Debug\net9.0\Supermarketsyst.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yazan\source\repos\Supermarketsyst\Supermarketsyst\obj\Debug\net9.0\Supermarketsyst.AssemblyInfoInputs.cache
+C:\Users\yazan\source\repos\Supermarketsyst\Supermarketsyst\obj\Debug\net9.0\Supermarketsyst.AssemblyInfo.cs
+C:\Users\yazan\source\repos\Supermarketsyst\Supermarketsyst\obj\Debug\net9.0\Supermarketsyst.csproj.CoreCompileInputs.cache
+C:\Users\yazan\source\repos\Supermarketsyst\Supermarketsyst\obj\Debug\net9.0\Supermarketsyst.sourcelink.json
+C:\Users\yazan\source\repos\Supermarketsyst\Supermarketsyst\obj\Debug\net9.0\Supermarketsyst.dll
+C:\Users\yazan\source\repos\Supermarketsyst\Supermarketsyst\obj\Debug\net9.0\refint\Supermarketsyst.dll
+C:\Users\yazan\source\repos\Supermarketsyst\Supermarketsyst\obj\Debug\net9.0\Supermarketsyst.pdb
+C:\Users\yazan\source\repos\Supermarketsyst\Supermarketsyst\obj\Debug\net9.0\Supermarketsyst.genruntimeconfig.cache
+C:\Users\yazan\source\repos\Supermarketsyst\Supermarketsyst\obj\Debug\net9.0\ref\Supermarketsyst.dll

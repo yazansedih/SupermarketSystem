@@ -8,10 +8,8 @@ namespace Supermarketsyst.Models
 {
     class Cashier : User
     {
-        public Cashier(int id, string name)
+        public Cashier(string name) : base(name)
         {
-            Id = id;
-            Name = name;
             Role = "Cashier";
         }
         public override void ShowDashboard()
