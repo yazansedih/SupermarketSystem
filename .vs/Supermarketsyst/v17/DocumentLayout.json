@@ -5,6 +5,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{35D31472-F3BD-401F-8626-EAA77695855D}|Supermarketsyst\\Supermarketsyst.csproj|c:\\users\\yazan\\source\\repos\\supermarketsyst\\supermarketsyst\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{35D31472-F3BD-401F-8626-EAA77695855D}|Supermarketsyst\\Supermarketsyst.csproj|solutionrelative:supermarketsyst\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35D31472-F3BD-401F-8626-EAA77695855D}|Supermarketsyst\\Supermarketsyst.csproj|c:\\users\\yazan\\source\\repos\\supermarketsyst\\supermarketsyst\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35D31472-F3BD-401F-8626-EAA77695855D}|Supermarketsyst\\Supermarketsyst.csproj|solutionrelative:supermarketsyst\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35D31472-F3BD-401F-8626-EAA77695855D}|Supermarketsyst\\Supermarketsyst.csproj|c:\\users\\yazan\\source\\repos\\supermarketsyst\\supermarketsyst\\services\\stockmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35D31472-F3BD-401F-8626-EAA77695855D}|Supermarketsyst\\Supermarketsyst.csproj|solutionrelative:supermarketsyst\\services\\stockmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,10 +32,36 @@
               "RelativeDocumentMoniker": "Supermarketsyst\\Program.cs",
               "ToolTip": "C:\\Users\\yazan\\source\\repos\\Supermarketsyst\\Supermarketsyst\\Program.cs",
               "RelativeToolTip": "Supermarketsyst\\Program.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAA1wBcAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-18T21:18:36.167Z",
               "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StockManager.cs",
+              "DocumentMoniker": "C:\\Users\\yazan\\source\\repos\\Supermarketsyst\\Supermarketsyst\\Services\\StockManager.cs",
+              "RelativeDocumentMoniker": "Supermarketsyst\\Services\\StockManager.cs",
+              "ToolTip": "C:\\Users\\yazan\\source\\repos\\Supermarketsyst\\Supermarketsyst\\Services\\StockManager.cs",
+              "RelativeToolTip": "Supermarketsyst\\Services\\StockManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T08:45:58.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "C:\\Users\\yazan\\source\\repos\\Supermarketsyst\\Supermarketsyst\\Services\\OrderService.cs",
+              "RelativeDocumentMoniker": "Supermarketsyst\\Services\\OrderService.cs",
+              "ToolTip": "C:\\Users\\yazan\\source\\repos\\Supermarketsyst\\Supermarketsyst\\Services\\OrderService.cs",
+              "RelativeToolTip": "Supermarketsyst\\Services\\OrderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T08:45:51.698Z",
               "EditorCaption": ""
             }
           ]

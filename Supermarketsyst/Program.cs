@@ -1,7 +1,5 @@
 ﻿using Supermarketsyst.Models;
 using Supermarketsyst.Services;
-using Supermarketsyst.Utils;
-
 
     class Program
     {
@@ -54,9 +52,9 @@ using Supermarketsyst.Utils;
                             break;
                     }
                 }
-                catch (Exception ex)
+                catch (Exception e)
                 {
-                    ExceptionHandler.HandleException(ex);
+                    Console.WriteLine($"Error: {e.Message}");
                 }
             }
         }
